@@ -7,7 +7,10 @@ https://snack.expo.dev/@mustafaxt1/nba-app
 
 FEATURES
 Coupon Creation: Users can create their own coupons with predictions for upcoming NBA matches.
-Match Predictions: Make predictions about various aspects of NBA matches, such as the winning team, player stats, and more.
+Match Predictions: Make predictions about various aspects of NBA matches, such as the winning team, and more.
+Leaderboard: Compete with friends or other users to see who has the most accurate predictions and climb the leaderboard.(Upcoming...)
+Real-time Updates: Get real-time updates on match results and see how your predictions stack up against the actual outcomes.(Upcoming...)
+User Profiles: Customize your profile, track your performance, and view your past predictions.(Upcoming...)
 
 INSTALLATION
 To run the NBA App locally, follow these steps:
