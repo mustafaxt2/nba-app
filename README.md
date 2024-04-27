@@ -4,6 +4,8 @@ Welcome to the NBA App! This React-Native application allows users to create cou
 DEMO
 You can access a live demo of the NBA App here.
 https://snack.expo.dev/@mustafaxt1/nba-app
+
+Here's the preview.
 https://github.com/mustafaxt2/nba-app/assets/112318875/4cefd3df-1732-4728-aa8a-b17e665a2372
 
 FEATURES
