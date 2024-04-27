@@ -4,6 +4,7 @@ Welcome to the NBA App! This React-Native application allows users to create cou
 DEMO
 You can access a live demo of the NBA App here.
 https://snack.expo.dev/@mustafaxt1/nba-app
+Uploading WhatsApp Video 2024-03-21 saat 21.36.40_c455bbab_2.mp4…
 
 FEATURES
 Coupon Creation: Users can create their own coupons with predictions for upcoming NBA matches.
